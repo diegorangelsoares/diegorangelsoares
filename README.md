@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**diegorangelsoares/diegorangelsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**diegorangelsoares/diegorangelsoares** é meu repositório pessoal. 
 
-Here are some ideas to get you started:
+A alguns anos atrás perdi meu github/e-mail e tive que criar esse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Atualmente trabalho com desenvolvimento de sistemas e estou atuando como Tech Leader na RPE.
+´´
+Para mais informações de trabalho segue linkedin: https://www.linkedin.com/in/diego-rangel-41b9a1105/
+´´
+- 🌱 Atualmente vejo me reciclando em tecnologias ja utilizadas e tentando focar mais em cloud, pois é o que o mercado vem abordando e necessitando.
+- 🤔 Estou procurando ajuda com boas práticas e integrações de API desenvolvidas em spring boot com ferramentas da AWS.
+- 📫 Contato:
+  - Email: diegorangeljpa@gmail.com
+  - Whatsapp: +55 83 99611-7574
+
+
