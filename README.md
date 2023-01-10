@@ -1,6 +1,6 @@
-### Hi 👋
+Olá. 👋
 
-**diegorangelsoares/diegorangelsoares** é meu repositório pessoal. 
+Você está no meu repositório pessoal. 
 
 A alguns anos atrás perdi meu github/e-mail e tive que criar esse.
 
